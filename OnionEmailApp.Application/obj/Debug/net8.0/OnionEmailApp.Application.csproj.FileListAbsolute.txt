@@ -1,0 +1,15 @@
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\bin\Debug\net8.0\OnionEmailApp.Application.deps.json
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\bin\Debug\net8.0\OnionEmailApp.Application.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\bin\Debug\net8.0\OnionEmailApp.Application.pdb
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\bin\Debug\net8.0\OnionEmailApp.Domain.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\bin\Debug\net8.0\OnionEmailApp.Domain.pdb
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.csproj.AssemblyReference.cache
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.AssemblyInfoInputs.cache
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.AssemblyInfo.cs
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEma.8C31A4AB.Up2Date
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\refint\OnionEmailApp.Application.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\OnionEmailApp.Application.pdb
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Application\obj\Debug\net8.0\ref\OnionEmailApp.Application.dll

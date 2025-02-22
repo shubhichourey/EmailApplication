@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiKMk7OL2+I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shubhi_chourey\\source\\repos\\OnionEmailApp\\OnionEmailApp.Application\\OnionEmailApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubhi_chourey\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512",
+    "C:\\Users\\shubhi_chourey\\.nuget\\packages\\mailkit\\4.10.0\\mailkit.4.10.0.nupkg.sha512",
+    "C:\\Users\\shubhi_chourey\\.nuget\\packages\\mimekit\\4.10.0\\mimekit.4.10.0.nupkg.sha512",
+    "C:\\Users\\shubhi_chourey\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\shubhi_chourey\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

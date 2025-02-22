@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "OnionEmailApp.API.Controllers.EmailController",
+    "Method": "GetAllEmails",
+    "RelativePath": "api/Email/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

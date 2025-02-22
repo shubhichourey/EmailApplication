@@ -1,0 +1,11 @@
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\bin\Debug\net8.0\OnionEmailApp.Domain.deps.json
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\bin\Debug\net8.0\OnionEmailApp.Domain.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\bin\Debug\net8.0\OnionEmailApp.Domain.pdb
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.AssemblyInfoInputs.cache
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.AssemblyInfo.cs
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\refint\OnionEmailApp.Domain.dll
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\OnionEmailApp.Domain.pdb
+C:\Users\shubhi_chourey\source\repos\OnionEmailApp\OnionEmailApp.Domain\obj\Debug\net8.0\ref\OnionEmailApp.Domain.dll
