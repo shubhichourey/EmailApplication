@@ -27,7 +27,7 @@ namespace OnionEmailApp.Controllers
                 var smtpClient = new SmtpClient("smtp.gmail.com")
                 {
                     Port = 587,
-                    Credentials = new NetworkCredential("shubhi010503@gmail.com", "iaym tjvg xzlu snre"),
+                    Credentials = new NetworkCredential("shubhi010503@gmail.com", "***"),
                     EnableSsl = true,
                 };
 
